@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "obJWLLNUUZ8XL3pMDHozNLAwki7T4VoUHXa2C4AD3s+EyKU+6vfFP0v+K/hgmA8gqKXUxl+eJ0jX9OCSWoiO5g==",
+  "success": true,
+  "projectFilePath": "D:\\MyBot\\MyBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\86157\\.nuget\\packages\\lagrange.core\\0.2.1\\lagrange.core.0.2.1.nupkg.sha512",
+    "C:\\Users\\86157\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\86157\\.nuget\\packages\\protobuf-net\\3.2.16\\protobuf-net.3.2.16.nupkg.sha512",
+    "C:\\Users\\86157\\.nuget\\packages\\protobuf-net.core\\3.2.16\\protobuf-net.core.3.2.16.nupkg.sha512",
+    "C:\\Users\\86157\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512",
+    "C:\\Users\\86157\\.nuget\\packages\\system.drawing.common\\8.0.5\\system.drawing.common.8.0.5.nupkg.sha512",
+    "C:\\Users\\86157\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
